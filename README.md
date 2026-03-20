@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </p>
 
----
 
 ## 🚀 Projects
 
@@ -44,7 +43,6 @@
 | [Injury Panel Analysis](https://github.com/hyunnjjung/industrial_injury_insurance_panel_analysis_2025) | 산재 데이터 기반 우울 위험도 예측 모델 개발 및 SHAP 해석 | CatBoost, SHAP |
 | [Used Car Regression](https://github.com/hyunnjjung/Regression-of-Used-Car-Prices_DF) | 중고차 가격 예측을 위한 회귀 모델링 및 데이터 파이프라인 구축 | Scikit-learn |
 | [Problematic Internet Use](https://github.com/hyunnjjung/physical-activity-problematic-internet-use_DF) | 신체 활동과 인터넷 사용 패턴 간 상관관계 탐색 및 EDA 수행 | Pandas, Statsmodels |
----
 
 ### Backend & Development
 | Project | Description |
@@ -61,11 +59,10 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hyunnjjung&show_icons=true&theme=vincere&hide_border=true&title_color=FF69B4&icon_color=FF69B4&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunnjjung&layout=compact&theme=vincere&hide_border=true&title_color=FF69B4" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hyunnjjung&show_icons=true&theme=vincere&hide_border=true&title_color=FF69B4&icon_color=FF69B4&count_private=true&v=1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunnjjung&layout=compact&theme=vincere&hide_border=true&title_color=FF69B4&v=1" />
 </p>
 
----
 
 ## 💌 Contact
 
