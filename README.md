@@ -2,7 +2,7 @@
 
 # <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Hyunjung%20Yeo&fontSize=80&fontColor=FF69B4&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=900&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+Hyunjung's+GitHub!+🌸;Coding+with+Love+%26+Passion+🎀;Backend+Development;Data+Analysis+with+ML;Practical+AI+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=1100&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+Hyunjung's+GitHub!+🌸;Coding+with+Passion+🎀;Backend+Development;Data+Analysis+with+ML;Practical+AI+Applications)](https://git.io/typing-svg)
 
 
 ## 🛠 Tech Stack
@@ -53,9 +53,9 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyunnjjung&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=hyunnjjung&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" height="160" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyunnjjung&theme=react-dark&hide_border=true&color=FF69B4&line=FF69B4&point=FF69B4" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyunnjjung&show_icons=true&theme=default&hide_border=true&title_color=FF69B4&icon_color=FF69B4&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=hyunnjjung&theme=default&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyunnjjung&theme=default&hide_border=true&color=FF69B4&line=FF69B4&point=FF69B4" height="160" />
 </p>
 
 ---
