@@ -2,7 +2,7 @@
 
 # <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Hyunjung%20Yeo&fontSize=80&fontColor=FF69B4&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=1100&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+Hyunjung's+GitHub!+🌸;Coding+with+Passion+🎀;Backend+Development;Data+Analysis+with+ML;Practical+AI+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1200&pause=1400&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+Hyunjung's+GitHub!+🌸;Coding+with+Passion+🎀;Backend+Development;Data+Analysis+with+ML;Practical+AI+Applications)](https://git.io/typing-svg)
 
 
 ## 🛠 Tech Stack
